@@ -1,0 +1,18 @@
+.head-text {
+  margin-top: 15px;
+	margin-left: 5vw;
+}
+.list {
+	list-style:none;
+	margin-top: 15px;
+	margin-left: 5vw;
+}
+.progress-color {
+	margin-top: 35px;
+	margin-left: 5vw;
+  height: 18px;
+  width: 80%;
+ }
+li {
+	padding: 5px;
+}
